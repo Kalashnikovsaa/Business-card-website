@@ -46,6 +46,11 @@ img {
     width: 20%;
     margin-left: 20px;
     margin-top: 20px;
+    background-size: auto;
+    border-top-left-radius: 30px 30px;
+    border-top-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
 }
 
 div {
